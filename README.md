@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SanthoshKumar Durasiamy</h1>
-<h3 align="center">A Fraud Analyst/Full Stack Developer</h3>
+<h3 align="center">A Fraud Analyst/Full Stack Developer from Tirupur</h3>
 
 - 🌱 I’m currently learning **MERN Stack**
 
