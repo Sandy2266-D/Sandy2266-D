@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SanthoshKumar Durasiamy</h1>
-<h3 align="center">A Fraud Analyst/Full Stack Developer from Tirupur</h3>
+<h3 align="center">AJunior PHP Developer/Full Stack Developer from Tirupur</h3>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently Working in Integra Global Solution as **PHP Developer**
 
 - 👨‍💻 All of my projects are available at [https://sandy-myportfolio.netlify.app/](https://sandy-myportfolio.netlify.app/)
 
