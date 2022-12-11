@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SanthoshKumar Durasiamy</h1>
-<h3 align="center">AJunior PHP Developer/Full Stack Developer from Tirupur</h3>
+<h3 align="center">A Junior PHP Developer/Full Stack Developer from Tirupur</h3>
 
 - 🌱 I’m currently Working in Integra Global Solution as **PHP Developer**
 
